@@ -19,6 +19,8 @@ void FirstWindow(){
     cout << "\t |                                         |" << endl;
     cout << "\t |                                         |" << endl;
     cout << "\t +-----------------------------------------+" << endl;
+    cout << "\t |                 Samuel Ribeiro - 04/21  |" << endl;
+    cout << "\t +-----------------------------------------+" << endl;
     for (int i=0; i<3; i++){cout << endl;}
     cout << "\t Please enter Y to continue or N to exit: ";
     cin >> option;
